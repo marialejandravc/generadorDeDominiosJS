@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.card {
+  background-color: rgba(123, 88, 127, 0.808);
+  height: 100%;
+  margin: 0;
+}
+
+.card-header {
+  background-color: lavenderblush;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  background-color: #7b587f;
+}
